@@ -18,7 +18,7 @@ require(['jquery', 'util', 'valine', 'chart', 'registerSW', 'fancybox', 'confirm
       visitor: true,
       recordIP: true,
       avatar: 'mp',
-      placeholder: '骑士很煎蛋、骑士很孜然'
+      placeholder: '你看我人生孤独，不知我自得欢喜一路'
     })
   }
 
